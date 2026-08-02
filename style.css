@@ -460,5 +460,7 @@ header p{
     margin-bottom: 15px;
 }
 .towerbridge {
-    width: 45px;
+    width: 220px;
+    display: block;
+    margin: 20px auto;
 }
